@@ -1,16 +1,25 @@
-### Hi there 👋
+</div>
+<div align="center"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ2OTc4MzQxMDAwYjQ4NzhiMmJkMDA2YTk2ZGUzNjA5MDk1N2NhMyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="200" /></div>
 
-<!--
-**Edwin-Omar-Medina/Edwin-Omar-Medina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" > Hola 👋, soy Edwin Medina </h1>   
+<h2 align="center">Desarrollador Junior 💻</h2>
+<h3 align="center" >
+Soy una persona con deseos de ampliar conocimientos
+             y habilidades profesionales a través de la continua
+             capacitación y experiencia.👨‍💻
+</h3>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+             🎓 Soy estudiante de septimo semestre de ingeniería de sistemas.
+             🌱 Actualmente estoy aprendiendo [Desarrollo con React y Sass].
+             💻 Estoy en proceso de crear mi portafolio.
+             💳 Trabajo en Desarrollo aplicativos financieros
+
+             Habilidades: C / JAVA / HTML / CSS / Javascript
+
+
+
+
+
+
